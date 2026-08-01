@@ -6,9 +6,9 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 ---
 
-## 📊 Dashboard Preview
-> Add your dashboard screenshot below after uploading it to the `screenshots` folder.
-![Dashboard Overview](screenshots/dashboard-overview.png)
+# 📱 Power BI Mobile Sales Dashboard
+## Dashboard Preview
+![Dashboard](Screenshots/dashboard-overview.png)
 
 ---
 
