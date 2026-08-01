@@ -1,20 +1,38 @@
 # 📱 Power BI Mobile Sales Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Dataset-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+---
+
 ## 📌 Project Overview
-This project showcases an interactive **Power BI Dashboard** built to analyze mobile phone sales performance across different cities, brands, payment methods, customer ratings, and time periods.
-The dashboard helps businesses monitor key performance indicators (KPIs), identify sales trends, compare brand performance, and make data-driven decisions through interactive visualizations.
+
+This project is an interactive **Power BI dashboard** developed to analyze mobile phone sales data. It provides meaningful business insights into sales performance, customer behavior, payment methods, product performance, and regional sales trends.
+
+The dashboard helps businesses monitor key performance indicators (KPIs), identify sales trends, compare brand performance, and make data-driven decisions using interactive visualizations.
 
 ---
 
-# 📱 Power BI Mobile Sales Dashboard
-## Dashboard Preview
-![Dashboard](screenshots/dashboard-overview.png)
+# 📸 Dashboard Preview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ---
 
-## 🎯 Business Objectives
-- Monitor overall sales performance.
-- Analyze sales by city and geographical region.
+# 📥 Project Files
+
+| File | Description |
+|------|-------------|
+| 📊 [Power BI Dashboard](dashboard/Mobile_Sales_Dashboard.pbix) | Power BI Dashboard File |
+| 📁 [Dataset](dataset/Mobile_Sales_Data.xlsx) | Excel Dataset |
+| 📄 [Project Documentation](documentation/Project_Report.docx) | Project Documentation |
+
+---
+
+# 🎯 Business Objectives
+
+- Analyze overall mobile sales performance.
 - Compare sales across different mobile brands.
 - Identify top-selling mobile models.
 - Understand customer payment preferences.
@@ -23,9 +41,10 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+# 📈 Key Performance Indicators (KPIs)
+
 | KPI | Value |
-|------|-------|
+|------|------:|
 | Total Sales | **769M** |
 | Total Quantity Sold | **19K** |
 | Total Transactions | **4K** |
@@ -33,31 +52,31 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 ---
 
-## 📌 Dashboard Features
-- 📍 City-wise Sales Analysis (Map Visualization)
+# 📊 Dashboard Features
+
+- 📍 Sales Analysis by City (Map)
 - 💳 Payment Method Distribution
 - ⭐ Customer Rating Analysis
 - 📅 Sales Trend by Day
 - 📆 Monthly Quantity Trend
 - 📱 Top Selling Mobile Models
 - 🏷 Brand Performance Comparison
-- 🔍 Interactive Filters (Slicers)
+- 🔍 Interactive Filters (Month, Day, Brand, Model, Payment Method)
 
 ---
 
-## 📊 Dashboard Insights
-- Generated **769M** in total sales.
-- Sold more than **19,000** mobile devices.
-- Completed around **4,000** customer transactions.
-- Apple recorded the highest total sales among all brands.
+# 📊 Dashboard Insights
+
+- Apple generated the highest total sales.
 - iPhone SE was the top-selling mobile model.
-- UPI, Debit Card, Credit Card, and Cash contributed almost equally to total payments.
-- Saturday generated the highest sales.
-- Most customers rated their purchases between **4 and 5 stars**.
+- Saturday recorded the highest sales.
+- Most customers rated products between **4 and 5 stars**.
+- UPI, Debit Card, Credit Card, and Cash contributed almost equally to total sales.
 
 ---
 
-## 🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies
+
 - Microsoft Power BI
 - Microsoft Excel
 - Power Query
@@ -65,7 +84,8 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
+
 ```text
 powerbi-mobile-sales-dashboard
 │
@@ -75,89 +95,76 @@ powerbi-mobile-sales-dashboard
 ├── dataset
 │   └── Mobile_Sales_Data.xlsx
 │
+├── documentation
+│   └── Project_Report.docx
+│
 ├── screenshots
 │   └── dashboard-overview.png
-│
-├── documentation
-│   └── Project_Report.pdf
 │
 └── README.md
 ```
 
 ---
 
-## 📁 Dataset
-The dataset contains mobile sales information including:
+# 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open **Mobile_Sales_Dashboard.pbix** using **Microsoft Power BI Desktop**.
+3. If required, refresh the dataset.
+4. Explore the dashboard using the interactive filters.
+
+---
+
+# 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+- Power Query
+- DAX
+- Sales Analytics
+
+---
+
+# 📌 Dataset
+
+The dataset includes information related to:
+
 - Transaction ID
 - Date
 - City
 - Mobile Brand
 - Mobile Model
-- Quantity
+- Quantity Sold
 - Sales Amount
 - Customer Rating
 - Payment Method
 
----
-
-## 📌 Dashboard Visualizations
-- KPI Cards
-- Filled Map
-- Pie Chart
-- Funnel Chart
-- Line Charts
-- Bar Chart
-- Table
-- Interactive Slicers
+> **Note:** This project uses a publicly available dataset downloaded from the internet for learning and portfolio purposes.
 
 ---
 
-## 🚀 How to Use
-1. Download the repository.
-2. Open **Mobile_Sales_Dashboard.pbix** using **Power BI Desktop**.
-3. Refresh the dataset if required.
-4. Explore the dashboard using the interactive filters and visuals.
+# 🔮 Future Improvements
+
+- Add Profit Analysis
+- Add Year-over-Year (YoY) Sales Comparison
+- Create Customer Segmentation
+- Implement Sales Forecasting
+- Publish Dashboard to Power BI Service
 
 ---
 
-## 💡 Skills Demonstrated
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Business Intelligence
-- Dashboard Development
-- Power Query
-- DAX
-- KPI Reporting
-- Sales Analytics
+# 👩‍💻 Author
 
----
-
-## 📷 Dashboard Snapshot
-Upload your screenshot in the **screenshots** folder and rename it as:
-
-```text
-dashboard-overview.png
-```
-
----
-
-## 🔮 Future Improvements
-- Add Year-over-Year (YoY) Sales Analysis
-- Profit and Margin Analysis
-- Customer Segmentation
-- Forecasting
-- Drill-through Reports
-- Dynamic KPI Selection
-
----
-
-## 👩‍💻 Author
 **Aachal Bhise**
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-GitHub: https://github.com/aachalb26
+Aspiring Data Analyst
+
+- GitHub: https://github.com/aachalb26
 
 ---
 
-## ⭐ If you found this project helpful, please consider giving it a Star!
+## ⭐ If you found this project helpful, please consider giving it a Star.nsider giving it a Star!
