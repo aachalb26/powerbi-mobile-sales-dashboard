@@ -14,9 +14,53 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 ---
 
-# 📸 Dashboard Preview
+## 📷 Dashboard Screenshots
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard-overview.png)
+
+---
+
+### KPI Summary
+
+![KPI Cards](screenshots/kpi-cards.png)
+
+---
+
+### Sales by City
+
+![Sales by City](screenshots/sales-by-city.png)
+
+---
+
+### Payment Method Analysis
+
+![Payment Method](screenshots/payment-method-analysis.png)
+
+---
+
+### Customer Ratings
+
+![Customer Ratings](screenshots/customer-ratings.png)
+
+---
+
+### Brand Performance
+
+![Brand Performance](screenshots/brand-performance.png)
+
+---
+
+### Sales Trend
+
+![Sales Trend](screenshots/sales-trend.png)
+
+---
+
+### Top Selling Mobile Models
+
+![Top Models](screenshots/top-mobile-models.png)
 
 ---
 
