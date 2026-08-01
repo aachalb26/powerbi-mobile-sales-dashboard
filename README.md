@@ -8,7 +8,7 @@ The dashboard helps businesses monitor key performance indicators (KPIs), identi
 
 # 📱 Power BI Mobile Sales Dashboard
 ## Dashboard Preview
-![dashboard](screenshots/dashboard-overview.png)
+![Dashboard](screenshots/dashboard-overview.png)
 
 ---
 
