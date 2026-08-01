@@ -143,8 +143,15 @@ powerbi-mobile-sales-dashboard
 │   └── Project_Report.docx
 │
 ├── screenshots
-│   └── dashboard-overview.png
-│
+│   ├── dashboard-overview.png
+│   ├── kpi-cards.png
+│   ├── sales-by-city.png
+│   ├── payment-method-analysis.png
+│   ├── customer-ratings.png
+│   ├── brand-performance.png
+│   ├── sales-trend.png
+│   └── top-mobile-models.png
+│       
 └── README.md
 ```
 
