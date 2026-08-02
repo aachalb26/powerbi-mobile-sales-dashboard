@@ -1,11 +1,5 @@
 # 📱 Power BI Mobile Sales Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Dataset-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
----
-
 ## 📌 Project Overview
 
 This project is an interactive **Power BI dashboard** developed to analyze mobile phone sales data. It provides meaningful business insights into sales performance, customer behavior, payment methods, product performance, and regional sales trends.
